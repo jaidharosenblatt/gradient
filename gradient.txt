@@ -1,6 +1,7 @@
 <html>
     <body>
         <canvas id="gradient-canvas"> </canvas>
+        <p>hi </p>
     </body>
     <style>
         html,
